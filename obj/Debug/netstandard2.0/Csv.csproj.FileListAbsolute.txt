@@ -1,0 +1,8 @@
+C:\highiot.dataanalytics\Csv\bin\Debug\netstandard2.0\Csv.deps.json
+C:\highiot.dataanalytics\Csv\bin\Debug\netstandard2.0\Csv.dll
+C:\highiot.dataanalytics\Csv\bin\Debug\netstandard2.0\Csv.pdb
+C:\highiot.dataanalytics\Csv\obj\Debug\netstandard2.0\Csv.csproj.CoreCompileInputs.cache
+C:\highiot.dataanalytics\Csv\obj\Debug\netstandard2.0\Csv.AssemblyInfoInputs.cache
+C:\highiot.dataanalytics\Csv\obj\Debug\netstandard2.0\Csv.AssemblyInfo.cs
+C:\highiot.dataanalytics\Csv\obj\Debug\netstandard2.0\Csv.dll
+C:\highiot.dataanalytics\Csv\obj\Debug\netstandard2.0\Csv.pdb

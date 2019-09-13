@@ -1,0 +1,9 @@
+C:\highiot.dataanalytics\Csv\bin\Release\netstandard2.0\Csv.deps.json
+C:\highiot.dataanalytics\Csv\bin\Release\netstandard2.0\Csv.dll
+C:\highiot.dataanalytics\Csv\bin\Release\netstandard2.0\Csv.pdb
+C:\highiot.dataanalytics\Csv\obj\Release\netstandard2.0\Csv.csprojAssemblyReference.cache
+C:\highiot.dataanalytics\Csv\obj\Release\netstandard2.0\Csv.csproj.CoreCompileInputs.cache
+C:\highiot.dataanalytics\Csv\obj\Release\netstandard2.0\Csv.AssemblyInfoInputs.cache
+C:\highiot.dataanalytics\Csv\obj\Release\netstandard2.0\Csv.AssemblyInfo.cs
+C:\highiot.dataanalytics\Csv\obj\Release\netstandard2.0\Csv.dll
+C:\highiot.dataanalytics\Csv\obj\Release\netstandard2.0\Csv.pdb
